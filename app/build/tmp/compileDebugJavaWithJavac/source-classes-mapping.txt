@@ -1,0 +1,2 @@
+com/example/nohilang/BuildConfig.java
+ com.example.nohilang.BuildConfig
